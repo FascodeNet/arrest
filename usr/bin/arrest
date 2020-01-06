@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 /usr/share/arrest/main.py
+python3 $(find /usr/share/arrest/ -name main.py)
